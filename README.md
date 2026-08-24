@@ -5,3 +5,7 @@
 Standalone tool — codegen-independent, sibling to `i10s`. It's *consumed* by other repos (e.g. it builds a repo's public docs site in CI), not housed in them.
 
 Design: `./DESIGN.md`. Status: design.
+
+## License
+
+MIT — see [`LICENSE`](LICENSE).
