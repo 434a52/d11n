@@ -31,7 +31,7 @@ The context is a **handful of own, living repos — curated, private, Claude-mai
 ```yaml
 sources:
   forge: { path: ../forge }
-  i10s:  { git: https://github.com/cjr--/i10s, ref: v1.0.0 }
+  i10s:  { git: https://github.com/434a52/i10s, ref: v1.0.0 }
   d11n:  { path: . }
 nav:
   - section: Codegen
